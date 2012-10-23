@@ -1,4 +1,4 @@
-# @restful_api
+# @restful_api 1.0
 #
 # @property [String] name Full name of the user
 # @property [Date] birthdate Date of birth

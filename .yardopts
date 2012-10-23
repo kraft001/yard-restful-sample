@@ -1,0 +1,8 @@
+--title "Books API"
+--plugin rest
+--query '@restful_api.text == "1.0"'
+--readme API_README
+--output-dir ./public/api_doc
+--markup markdown
+app/controllers/**/*.rb
+app/models/**/*.rb

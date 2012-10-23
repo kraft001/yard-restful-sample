@@ -1,4 +1,4 @@
-# @restful_api
+# @restful_api 1.0
 #
 # @property [Author] author Author of the story
 # @property [String] title Title of the story

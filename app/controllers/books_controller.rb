@@ -1,4 +1,4 @@
-# @restful_api
+# @restful_api 1.0
 #
 # Books and articles
 #
