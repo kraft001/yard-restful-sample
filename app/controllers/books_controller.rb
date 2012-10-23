@@ -16,6 +16,28 @@ class BooksController < ApplicationController
   #
   # @response [Book] The created book
   #
+  # @example_request_description Let's try to create a book
+  # @example_request
+  #   ```json
+  #   {
+  #     "author_id": 1,
+  #     "title": "My first book",
+  #     "year": 1999
+  #   }
+  #   ```
+  # @example_response_description The book should be created correctly
+  # @example_response
+  #   ```json
+  #   {
+  #     "author": {
+  #       "name": "Petr Petrov",
+  #       "birthdate": "1968-03-25"
+  #     },
+  #     "title": "My first book",
+  #     "year": 1999,
+  #     "genre": ""
+  #   }
+  #   ```
   def create
     book = Book.create(params)
     redirect_to book_path(book)
