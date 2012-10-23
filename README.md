@@ -1,6 +1,6 @@
 ## yard-restful-sample
 
-Sample application for [yard-restful plugin](http://kraft001.github.com/yard-restful)
+Sample application for [yard-restful plugin](http://github.com/kraft001/yard-restful)
 
 ## Installation
 
