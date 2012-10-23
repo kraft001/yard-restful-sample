@@ -12,3 +12,9 @@ Sample application for [yard-restful plugin](http://github.com/kraft001/yard-res
   x-www-browser ./public/api_doc/frames.html
   ```
 
+## Live demo
+
+Main view: http://kraft001.github.com/yard-restful-sample/index.html
+
+With frames: http://kraft001.github.com/yard-restful-sample/frames.html
+
