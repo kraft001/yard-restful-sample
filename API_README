@@ -6,11 +6,3 @@ Create and browse books and authors
 
 Find me [here](http://github.com/kraft001/yard-restful-sample)
 
-## Installation
-
-  bundle install
-  bundle exec yard doc
-  x-www-browser ./public/api_doc/index.html
-  OR
-  x-www-browser ./public/api_doc/frames.html
-
