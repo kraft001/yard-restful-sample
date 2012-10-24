@@ -1,5 +1,5 @@
 --title "Books API"
---plugin rest
+--plugin restful
 --query '@restful_api.text == "1.0"'
 --readme API_README
 --output-dir ./public/api_doc
